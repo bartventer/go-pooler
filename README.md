@@ -3,7 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/bartventer/go-pooler.svg)](https://pkg.go.dev/github.com/bartventer/go-pooler)
 [![Release](https://img.shields.io/github/release/bartventer/go-pooler.svg)](https://github.com/bartventer/go-pooler/releases/latest)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bartventer/go-pooler)](https://goreportcard.com/report/github.com/bartventer/go-pooler)
-[![codecov](https://codecov.io/gh/bartventer/go-pooler/graph/badge.svg?token=6i0Pr1GFek)](https://codecov.io/gh/bartventer/go-pooler)
+[![codecov](https://codecov.io/gh/bartventer/go-pooler/graph/badge.svg?token=EDXIGqtlaI)](https://codecov.io/gh/bartventer/go-pooler)
 [![Tests](https://github.com/bartventer/go-pooler/actions/workflows/default.yml/badge.svg)](https://github.com/bartventer/go-pooler/actions/workflows/default.yml)
 ![GitHub issues](https://img.shields.io/github/issues/bartventer/go-pooler)
 [![License](https://img.shields.io/github/license/bartventer/go-pooler.svg)](LICENSE)

@@ -23,11 +23,6 @@ test:
 	go tool cover -html=$(COVERPROFILE) -o coverage.html
 	@if [[ -n "$$CI" && "$(UPLOAD_COVERAGE)" == "true" ]]; then bash <(curl -s https://codecov.io/bash) -f $(COVERPROFILE); fi
 
-.PHONY: cover
-cover:
-	go test -coverprofile=coverage.out ./...
-	go tool cover -html=coverage.out
-
 .PHONY: build
 build:
 	go build -v -o /dev/null ./...
